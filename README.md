@@ -12,4 +12,4 @@ git clone https://github.com/vikoganz/ndolon
 
 cd ndolon
 
-python2 viko.py
+python2 anjing.py
